@@ -1,0 +1,19 @@
+c:\users\etudiant-bts\documents\visual studio 2010\Projects\GestionInfirmerie\InfirmerieGUI\bin\Debug\InfirmerieGUI.exe
+c:\users\etudiant-bts\documents\visual studio 2010\Projects\GestionInfirmerie\InfirmerieGUI\bin\Debug\InfirmerieGUI.pdb
+c:\users\etudiant-bts\documents\visual studio 2010\Projects\GestionInfirmerie\InfirmerieGUI\obj\x86\Debug\InfirmerieGUI.FrmAjoutEleve.resources
+c:\users\etudiant-bts\documents\visual studio 2010\Projects\GestionInfirmerie\InfirmerieGUI\obj\x86\Debug\InfirmerieGUI.Properties.Resources.resources
+c:\users\etudiant-bts\documents\visual studio 2010\Projects\GestionInfirmerie\InfirmerieGUI\obj\x86\Debug\InfirmerieGUI.csproj.GenerateResource.Cache
+c:\users\etudiant-bts\documents\visual studio 2010\Projects\GestionInfirmerie\InfirmerieGUI\obj\x86\Debug\InfirmerieGUI.exe
+c:\users\etudiant-bts\documents\visual studio 2010\Projects\GestionInfirmerie\InfirmerieGUI\obj\x86\Debug\InfirmerieGUI.pdb
+C:\Users\popyk\Documents\Visual Studio 2010\Projects\GestionInfirmerie\InfirmerieGUI\obj\x86\Debug\InfirmerieGUI.exe
+C:\Users\popyk\Documents\Visual Studio 2010\Projects\GestionInfirmerie\InfirmerieGUI\obj\x86\Debug\InfirmerieGUI.pdb
+C:\Users\xavid\Desktop\GestionInfirmerie\InfirmerieGUI\bin\Debug\InfirmerieGUI.exe
+C:\Users\xavid\Desktop\GestionInfirmerie\InfirmerieGUI\bin\Debug\InfirmerieGUI.pdb
+C:\Users\xavid\Desktop\GestionInfirmerie\InfirmerieGUI\obj\x86\Debug\InfirmerieGUI.csprojResolveAssemblyReference.cache
+C:\Users\xavid\Desktop\GestionInfirmerie\InfirmerieGUI\obj\x86\Debug\InfirmerieGUI.FrmAjoutEleve.resources
+C:\Users\xavid\Desktop\GestionInfirmerie\InfirmerieGUI\obj\x86\Debug\InfirmerieGUI.FrmModifierEleve.resources
+C:\Users\xavid\Desktop\GestionInfirmerie\InfirmerieGUI\obj\x86\Debug\InfirmerieGUI.Properties.Resources.resources
+C:\Users\xavid\Desktop\GestionInfirmerie\InfirmerieGUI\obj\x86\Debug\InfirmerieGUI.csproj.GenerateResource.Cache
+C:\Users\xavid\Desktop\GestionInfirmerie\InfirmerieGUI\obj\x86\Debug\InfirmerieGUI.csproj.CoreCompileInputs.cache
+C:\Users\xavid\Desktop\GestionInfirmerie\InfirmerieGUI\obj\x86\Debug\InfirmerieGUI.exe
+C:\Users\xavid\Desktop\GestionInfirmerie\InfirmerieGUI\obj\x86\Debug\InfirmerieGUI.pdb
